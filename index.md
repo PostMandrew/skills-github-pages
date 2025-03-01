@@ -1,5 +1,4 @@
 ---
-Test Page: Welcome to my blog
-WOW!
+Test Page: Welcome to my blog. WOW!
 ---
 
